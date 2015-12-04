@@ -1,0 +1,29 @@
+name: EugeneZimmermann
+favicon: null
+layout_spectrum: 0.729410643922165
+typography_spectrum: 0.3427845612168312
+title: Zimmermann Management Solutions
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7024065465666354
+  lightness: 0.9151482693850994
+  saturation: 0.6564025811385363
+  rhythmicContrast: 0.42083327611908317
+purpose: []
